@@ -1,0 +1,1 @@
+#__init__ otomatik oluşur yoksa da kendimiz manuel yazmamız gereklidir.
