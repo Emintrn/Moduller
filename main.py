@@ -1,4 +1,4 @@
-#import eminmodule #Bu şekilde tüm kütüphaneyi çağıdık.Ama;
+#import eminmodule #Bu şekilde tüm kütüphaneyi çağırdık.Ama;
 #eminmodule.example_func() #Tüm kütüphane çağrılırsa bu şekilde çalışır.
 
 from eminmodule import example_func #Bu şekilde sadece eminmodule'de example_func çağırdık.
